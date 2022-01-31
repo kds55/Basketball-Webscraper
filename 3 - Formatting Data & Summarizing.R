@@ -4,11 +4,6 @@
 
 #could add so it pulls in data from website and automatically tests for completeness
 
-
-#######################
-#######################
-#need to add into the team totals the opponent team stats for the season
-
 ###############################################################################################################
 #Completeness testing on the game summaries
 #Below summarizes each teams wins/losses and games played for the season.
