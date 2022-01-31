@@ -1,4 +1,4 @@
-# NBA-Boxscore-Webscraper
+# NBA-Box-Score-Web-Scraper
 
 The code attached scrapes all the basketball scores desired for each identified season. The code must be ran in the order they are posted in the github (1 - 3).
 
